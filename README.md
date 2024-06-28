@@ -1,0 +1,3 @@
+# Galeria_Java
+Galeria de archivos(imagenes) de escritorio en Java, esta version esta al 50%.
+en proceso ...
